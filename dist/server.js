@@ -169,7 +169,7 @@ var App = function App() {
   return _react2.default.createElement(
     AppContainer,
     null,
-    '\uD83D\uDC85'
+    'Hello Brett Cunningham'
   );
 };
 

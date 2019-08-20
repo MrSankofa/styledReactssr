@@ -12,6 +12,6 @@ const AppContainer = styled.div`
   background: linear-gradient(20deg, rgb(219, 112, 147), #daa357);
 `;
 
-const App = () => <AppContainer>💅</AppContainer>;
+const App = () => <AppContainer>Hello Brett Cunningham</AppContainer>;
 
 export default App;
