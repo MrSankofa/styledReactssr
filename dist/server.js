@@ -106,7 +106,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 // <-- importing ServerStyleSheet
 
-var port = 3000;
+var port = 9000;
 var server = (0, _express2.default)();
 
 server.get('/', function (req, res) {
